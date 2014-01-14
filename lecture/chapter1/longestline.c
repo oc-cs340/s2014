@@ -2,7 +2,7 @@
 
 #define MAXLINE 1000
 
-int getlinelen(char line[], int maxline);
+int getlinelen(char s[], int lim);
 void copy(char to[], char from[]);
 
 // Print the longest input line
@@ -19,7 +19,7 @@ main() {
          copy(longest, line);
       }
    if(max > 0)
-      printf("%s", longest);
+      printf("The longest line is:\n%s\n", longest);
 
    return 0;
 }

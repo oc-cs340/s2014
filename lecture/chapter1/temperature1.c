@@ -7,9 +7,9 @@ main() {
    int fahrenheit, celsius;
    int lower, upper, step;
 
-   lower = 0;  // Lower limit
-   upper = 0;  // Upper limit
-   step = 20;  // Step size
+   lower = 0;    // Lower limit
+   upper = 300;  // Upper limit
+   step = 20;    // Step size
 
    fahrenheit = lower;
    while(fahrenheit <= upper) {
