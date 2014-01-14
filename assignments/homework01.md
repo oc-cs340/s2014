@@ -1,6 +1,8 @@
 ## CS 340 Homework 01
+----
 
 Assigned: 2014-01-14
+
 Due before: 2014-01-21
 
 ### Exercises from K & R
