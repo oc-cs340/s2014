@@ -1,0 +1,2 @@
+double atof(char s[]);
+
