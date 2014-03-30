@@ -1,4 +1,4 @@
-## CS 340 Homework 03
+## CS 340 Homework 04
 ----
 
 Assigned: 2014-02-11
