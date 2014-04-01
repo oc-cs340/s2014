@@ -1,4 +1,6 @@
 *.swp
+*.zip
 a.out
 bin
+student
 *.notebook
